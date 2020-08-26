@@ -1,9 +1,9 @@
 import React from 'react';
 
-export default () => {
+export default (props) => {
     return(
         <div className="sidebar">
-            <h1>Hello World</h1>
+            <h1>Sidebar</h1>
         </div>
     ) 
 }
